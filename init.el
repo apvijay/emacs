@@ -276,3 +276,4 @@ Key bindings:
 ;(require 'color-theme)
 ;(color-theme-initialize)
 ;(misterioso)
+(load-theme 'misterioso t)
