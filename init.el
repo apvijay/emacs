@@ -14,6 +14,7 @@
 
 ;; Show line-number in the mode line
 (line-number-mode 1)
+(global-linum-mode 1) ; left column line number
 
 ;; Show column-number in the mode line
 (column-number-mode 1)
