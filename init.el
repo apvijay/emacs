@@ -277,4 +277,11 @@ Key bindings:
 ;(require 'color-theme)
 ;(color-theme-initialize)
 ;(misterioso)
-(load-theme 'misterioso t)
+;;
+;(load-theme 'misterioso t)
+
+;; ========== font size ==================
+(set-face-attribute 'default nil :height 120)
+
+;; ========== hide toolbar ==============
+(tool-bar-mode -1)
